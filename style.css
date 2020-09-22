@@ -1,0 +1,27 @@
+header
+{
+	background-color: rgb(238, 238, 238);
+	height: 80px;
+}
+nav
+{
+  position: fixed;
+  width: 80%;
+  background-color: rgb(100, 210, 210);
+	height: 40px;
+	margin: auto;
+	z-index: 50;
+}
+.about-me
+{
+ position: relative;
+ background-color: rgb(210, 210, 210);
+ width: 200px;
+ height: 500px;
+ top: 100px;
+ left: 200px;
+}
+body
+{
+	min-height: 1000px;
+}
