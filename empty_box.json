@@ -1,6 +1,6 @@
 {
   "weight": "10kg",
   "material": "wood",
-  "gold": "yes",
-  "amount": 20
+  "gold": "no",
+  "amount": 0
 }
